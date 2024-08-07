@@ -1,13 +1,13 @@
 main{
-    min-height: 600px;
-}
-
-#section-banner{
     min-height: 500px;
 }
 
+#section-banner{
+    min-height: 400px;
+}
+
 #section-banner img{
-    height: 500px;
+    height: 400px;
 }
 
 h2{
@@ -35,11 +35,13 @@ mat-card-header{
 }
 
 mat-card img{
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
 }
 
 mat-card-actions p{
     color: red;
     font-size: 30px;
+    justify-content: center;
 }
+
